@@ -1,4 +1,5 @@
 def test_a():
+    print('still failing') 
     assert False
 
 def test_b():
