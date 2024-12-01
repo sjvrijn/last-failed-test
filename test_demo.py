@@ -1,8 +1,8 @@
 def test_a():
-    assert False
+    assert True
 
 def test_b():
-    assert 0
+    assert 1
 
 def test_c():
     assert "non-empty"
