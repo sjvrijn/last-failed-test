@@ -1,6 +1,6 @@
 def test_a():
     print("Still only this should run")
-    assert True
+    assert False
 
 def test_b():
     print("Not this")

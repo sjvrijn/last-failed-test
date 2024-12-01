@@ -23,5 +23,3 @@ jobs:
 
     - name: Run tests with coverage on newest Python
       uses: sjvrijn/pytest-last-failed@HEAD
-      with:
-        run-all-on-success: false
